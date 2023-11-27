@@ -1,9 +1,11 @@
-# 🖌 Getting started
+# Tyron Account on Aleo
 
-## Welcome !
+## Social Recovery
 
-A design system is a product, and similar best practices to product docs apply when documenting a design system. Offering succinct ways to get started is a great way to introduce the concepts of your design system, while empowering folks to use it for their needs.
+TyronSSI is a smart account secured by social recovery.
+
+Tyron bolsters individual privacy & financial freedom while contributing to the secure, self-sovereign identity management paradigm developed on Aleo.
 
 {% hint style="info" %}
-Use this template to introduce the concept of your design system. Outlining basic principles and ways of working to get every team on the same page.
+With social recovery, you can have guardians to help you regain control of your account even if you lose your private key.
 {% endhint %}
