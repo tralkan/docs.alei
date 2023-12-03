@@ -1,23 +1,19 @@
 # Table of contents
 
-* [🖌 Getting started](README.md)
+- [:zap: TyronSSI Account on Aleo](README.md)
 
-## INTRODUCTION
+## GETTING STARTED
 
-* [Design Principles](introduction/design-principles.md)
-* [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
-* [Accessibility](introduction/accessibility.md)
+- [Deploy Program](getting-started/deploy-program.md)
+- [Create Account](getting-started/create-account.md)
 
-## identity
+## ACCOUNT OWNERSHIP
 
-* [Logos](identity/logos.md)
-* [Colors](identity/colors.md)
-* [Typography](identity/typography.md)
-* [Imagery](identity/imagery.md)
+- [Overview](account-ownership/overview.md)
+- [Transfer Ownership](account-ownership/transfer.md)
 
-## Components
+## SOCIAL RECOVERY
 
-* [Icons](components/icons.md)
-* [Buttons](components/buttons.md)
-* [Inputs](components/inputs.md)
+- [Introduction](social-recovery/introduction.md)
+- [Add a Guardian](social-recovery/add-guardian.md)
+- [Be a guardian](social-recovery/be-guardian.md)

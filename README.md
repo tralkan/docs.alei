@@ -1,6 +1,6 @@
-# Tyron Account on Aleo
+# :zap: TyronSSI Account on Aleo
 
-## Social Recovery
+## :recycle: Social Recovery
 
 TyronSSI is a smart account secured by social recovery.
 
