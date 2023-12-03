@@ -1,8 +1,8 @@
-# :bow_and_arrow: Transfer Ownership
+# Transfer Ownership
 
 The account owner has the option to update or transfer the control of the app to another externally owned account at any time.
 
-![Transfer Image](./transfer-image.png)
+![](./transfer-image.png)
 
 By calling the `update_controller` transition, a new owner is established by creating an **AppController** record owned by the new owner.
 

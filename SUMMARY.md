@@ -16,4 +16,4 @@
 
 - [Introduction](social-recovery/introduction.md)
 - [Add a Guardian](social-recovery/add-guardian.md)
-- [Be a guardian](social-recovery/be-guardian.md)
+- [Be a Guardian](social-recovery/be-guardian.md)
