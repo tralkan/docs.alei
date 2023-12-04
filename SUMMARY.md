@@ -4,7 +4,7 @@
 
 ## GETTING STARTED
 
-- [Deploy Program](getting-started/deploy-program.md)
+- [Deploy App](getting-started/deploy-app.md)
 - [Create Account](getting-started/create-account.md)
 
 ## ACCOUNT OWNERSHIP

@@ -18,6 +18,6 @@ assert_eq(self.caller, aleo1gy3d0s00s2k7rmgqznnx2q8htmjm2p5rk8q40u5yklqhe44utvys
 
 ## :recycle: Social Recovery
 
-To incorporate Tyron Social Recovery, you need to include a controller transaction input of type AppController. And the transaction should return a new **sAppController** record that can be used for future ownership verification.
+To incorporate Tyron Social Recovery, you need to include a controller transaction input of type AppController. And the transaction should return a new **AppController** record that can be used for future ownership verification.
 
 ![](./overview-image.png)
