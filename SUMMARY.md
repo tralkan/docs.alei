@@ -17,3 +17,8 @@
 - [Introduction](social-recovery/introduction.md)
 - [Add a Guardian](social-recovery/add-guardian.md)
 - [Be a Guardian](social-recovery/be-guardian.md)
+
+## OPEN-SOURCE DEVELOPMENT
+
+- [Open-Source Software](open-source/oss.md)
+- [Aleo Transactions](open-source/transactions.md)
