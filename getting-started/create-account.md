@@ -14,5 +14,3 @@ Begin by connecting your Leo Wallet, which is an externally owned account (also 
 To designate your Leo Wallet as the app controller, click "Create Account". This action will create an **AppController** private record that you, as the account owner, will have available as proof of ownership.
 {% endtab %}
 {% endtabs %}
-
-<!-- {% embed url="https://www.youtube.com/watch?v=Bf1cLeFgMQ4" %} -->
